@@ -27,28 +27,44 @@ const Home = () => {
 				<div
 					className={`text-center opacity-25 text-gray-200 hover:opacity-100  duration-500`}
 				>
-					<a href="https://www.linkedin.com/in/jamolpe88/">
+					<a
+						href="https://www.linkedin.com/in/jamolpe88/"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
 						<i className="fab fa-linkedin fa-3x"></i>
 					</a>
 				</div>
 				<div
 					className={`text-center opacity-25 text-gray-200 hover:opacity-100  duration-500`}
 				>
-					<a href="https://www.freelancer.com/u/JaMoLpE88">
+					<a
+						href="https://www.freelancer.com/u/JaMoLpE88"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
 						<i className="fas fa-briefcase fa-3x"></i>
 					</a>
 				</div>
 				<div
 					className={`text-center opacity-25 text-gray-200 hover:opacity-100  duration-500`}
 				>
-					<a href="https://github.com/JaMoLpE88/">
+					<a
+						href="https://github.com/JaMoLpE88/"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
 						<i className="fab fa-github fa-3x"></i>
 					</a>
 				</div>
 				<div
 					className={`text-center opacity-25 text-gray-200 hover:opacity-100  duration-500`}
 				>
-					<a href="mailto:info@momoware.com">
+					<a
+						href="mailto:info@momoware.com"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
 						<i className="far fa-envelope fa-3x"></i>
 					</a>
 				</div>
