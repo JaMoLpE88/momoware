@@ -1,0 +1,24 @@
+.line-8 {
+	overflow: hidden;
+	white-space: nowrap;
+}
+.line-8-s {
+	border-right: 2px solid rgba(255, 255, 255, 0.75);
+}
+.line-8-e {
+	border-right: none;
+}
+
+.anim-typewriter-8 {
+	animation: typewriter-8 2s steps(3) 1s 1 normal both,
+		blinkTextCursor 500ms steps(3) infinite normal;
+}
+
+@keyframes typewriter-8 {
+	from {
+		width: 0;
+	}
+	to {
+		width: 3ch;
+	}
+}
