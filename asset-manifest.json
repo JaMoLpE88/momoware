@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/momoware/static/css/main.23a06e54.chunk.css",
+    "main.js": "/momoware/static/js/main.beaf124f.chunk.js",
+    "main.js.map": "/momoware/static/js/main.beaf124f.chunk.js.map",
+    "runtime-main.js": "/momoware/static/js/runtime-main.004d9999.js",
+    "runtime-main.js.map": "/momoware/static/js/runtime-main.004d9999.js.map",
+    "static/js/2.42777c03.chunk.js": "/momoware/static/js/2.42777c03.chunk.js",
+    "static/js/2.42777c03.chunk.js.map": "/momoware/static/js/2.42777c03.chunk.js.map",
+    "index.html": "/momoware/index.html",
+    "static/css/main.23a06e54.chunk.css.map": "/momoware/static/css/main.23a06e54.chunk.css.map",
+    "static/js/2.42777c03.chunk.js.LICENSE.txt": "/momoware/static/js/2.42777c03.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/momoware/static/media/terminator-cyr-4-semi-expanded-bold.2e0b62d0.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.004d9999.js",
+    "static/js/2.42777c03.chunk.js",
+    "static/css/main.23a06e54.chunk.css",
+    "static/js/main.beaf124f.chunk.js"
+  ]
+}
