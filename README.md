@@ -1,4 +1,4 @@
-# momoware.com
+# momoware
 
 ~~momoware.com~~ **_This domain is no longer in use._**
 
